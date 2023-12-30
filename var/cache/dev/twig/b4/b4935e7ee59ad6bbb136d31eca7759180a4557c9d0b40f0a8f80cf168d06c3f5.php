@@ -133,6 +133,6 @@ class __TwigTemplate_c0bdafa9a0f69fd2a18be0e407bedc43c7c2c501f59fee974f554f6e9c2
 
 </body>
 </html>
-", "@ApiPlatform/Graphiql/index.html.twig", "/Users/rafa/Sites/TFG/policia-api/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
+", "@ApiPlatform/Graphiql/index.html.twig", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/Graphiql/index.html.twig");
     }
 }

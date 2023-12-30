@@ -164,6 +164,6 @@ class __TwigTemplate_b4e7cd301cf4afaf88988a8a10fc9f796e2fde645f0dfa0512a992fa889
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Users/rafa/Sites/TFG/policia-api/templates/base.html.twig");
+", "base.html.twig", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/templates/base.html.twig");
     }
 }

@@ -165,6 +165,6 @@ class __TwigTemplate_6139b19f997222606df05400007806cff4553194790a8bcc826da1e669f
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/Users/rafa/Sites/TFG/policia-api/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

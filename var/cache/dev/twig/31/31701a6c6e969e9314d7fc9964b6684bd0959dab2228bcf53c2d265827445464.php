@@ -67,6 +67,6 @@ class __TwigTemplate_096e6449365fdcbf8d26b8dc51c9416b94a9af720ce3b58dee7e2527b2a
     <path d=\"M4 6v6a8 3 0 0 0 16 0v-6\"></path>
     <path d=\"M4 12v6a8 3 0 0 0 16 0v-6\"></path>
 </svg>
-", "@Doctrine/Collector/database.svg", "/Users/rafa/Sites/TFG/policia-api/vendor/doctrine/doctrine-bundle/Resources/views/Collector/database.svg");
+", "@Doctrine/Collector/database.svg", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/vendor/doctrine/doctrine-bundle/Resources/views/Collector/database.svg");
     }
 }

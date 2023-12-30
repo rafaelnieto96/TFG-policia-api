@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'a68469617f0116a210237bb35f2dd341cb2d898c',
+        'reference' => '9bb5a269c0d41e706c7f2095471905b067e6e2e7',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'a68469617f0116a210237bb35f2dd341cb2d898c',
+            'reference' => '9bb5a269c0d41e706c7f2095471905b067e6e2e7',
             'dev_requirement' => false,
         ),
         'api-platform/core' => array(

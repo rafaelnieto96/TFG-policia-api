@@ -680,6 +680,6 @@ class __TwigTemplate_49e964c4402353769ade28d21d19501666f9a590629849164a0431fe69d
         <td class=\"font-normal\">{{ migration.execution_time|default('n/a') }}</td>
     </tr>
 {% endmacro %}
-", "@DoctrineMigrations/Collector/migrations.html.twig", "/Users/rafa/Sites/TFG/policia-api/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
+", "@DoctrineMigrations/Collector/migrations.html.twig", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/vendor/doctrine/doctrine-migrations-bundle/Resources/views/Collector/migrations.html.twig");
     }
 }

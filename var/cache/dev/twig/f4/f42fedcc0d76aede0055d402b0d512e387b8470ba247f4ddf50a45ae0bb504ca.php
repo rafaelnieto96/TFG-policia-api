@@ -385,6 +385,6 @@ class __TwigTemplate_a8050981a7e2f8bb3864bfc2100d4be30573f1c7f72e5d7797d535ff2ac
 
 </body>
 </html>
-", "@ApiPlatform/SwaggerUi/index.html.twig", "/Users/rafa/Sites/TFG/policia-api/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
+", "@ApiPlatform/SwaggerUi/index.html.twig", "/Users/rafa/Sites/Proyectos/TFG/TFG-policia-api/vendor/api-platform/core/src/Symfony/Bundle/Resources/views/SwaggerUi/index.html.twig");
     }
 }

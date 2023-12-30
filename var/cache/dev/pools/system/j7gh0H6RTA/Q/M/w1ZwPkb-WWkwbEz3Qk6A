@@ -1,0 +1,3 @@
+<?php //route_name_0379b10f794ffdd149ba6ec8bba2bb00
+
+return [PHP_INT_MAX, 'api_notifications_get_item'];
